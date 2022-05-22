@@ -3,7 +3,7 @@
 
 ## Fontes de Pesquisa (Dados):
     + Administração Oceânica e Atmosférica Nacional (NOAA - EUA) - https://www.noaa.gov/
-    + Instituto Nacional de Meteorologia (INMET - Brasil) - https://portal.inmet.gov.br/dadoshistoricos
+    + Instituto Nacional de Meteorologia (INMET - Brasil) - https://tempo.inmet.gov.br/TabelaEstacoes
     + NASA climate - https://climate.nasa.gov/nasa_science/data/
 
 # Referências Bibliográficas:
