@@ -1,4 +1,8 @@
-# Balanceamento Hídrico de diferentes municípios em diferentes regiões:
+# Balanceamento Hídrico de diferentes municípios em diferentes regiões do Brasil:
+
+<div align="center">
+  <img src="https://github.com/Gus-1003/Meteorologia_Estudos_Dados/blob/main/Balan%C3%A7o_H%C3%ADdrico/Imagens/mapa-regioes-e-estados-brasileiros-2048x1781.jpg">
+</div>
 
 ## Fonte dos Dados:
 * INMET:
