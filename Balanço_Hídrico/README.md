@@ -20,6 +20,10 @@
 * BALANÇO HÍDRICO CLIMATOLOGICO PELO MÉTODO DE THORNTHWAITE E MATHER (1955) PARA A CIDADE DE HUMAITÁ - MESORREGIÃO SUL DO ESTADO DO AMAZONAS
     - https://editorarealize.com.br/editora/anais/enanpege/2021/61e164d2942f0_14012022085602.pdf
 
+<div align="center">
+  <img src="https://github.com/Gus-1003/Meteorologia_Estudos_Dados/blob/main/Balan%C3%A7o_H%C3%ADdrico/Imagens/Fluxograma.png">
+</div>
+
 ## Videos do Youtube:
 * AGRONOMIA:Problemas&Soluções - BALANÇO HÍDRICO CLIMATOLÓGICO NORMAL, CONFORME THORNTHWAITE E MATHER
     - https://www.youtube.com/watch?v=UyIUWvDCILs&ab_channel=AGRONOMIA%3AProblemas%26Solu%C3%A7%C3%B5es
