@@ -13,6 +13,8 @@
     - https://ainfo.cnptia.embrapa.br/digital/bitstream/item/25532/1/Circ-136.pdf
 * 5 EVAPOTRANSPIRAÇÃO
     - http://docs.fct.unesp.br/docentes/geo/tadeu/Climatologia/evapotranspiracao_3.pdf
+* Balanço Hidríco - USP - Prof. Felipe Gustavo
+    - http://www.leb.esalq.usp.br/leb/aulas/leb495/Aula_5.pdf
 * Balanço hídrico segundo Thornthwaite-Mather (1955) - Comunicado Técnico - EMBRAPA
     - https://ainfo.cnptia.embrapa.br/digital/bitstream/CPATSA/6679/1/COT34.pdf
 * Simplificado o balanço hídrico de Thornthwaite-Mather
