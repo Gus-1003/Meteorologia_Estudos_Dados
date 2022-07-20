@@ -4,6 +4,14 @@
   <img src="https://github.com/Gus-1003/Meteorologia_Estudos_Dados/blob/main/Balan%C3%A7o_H%C3%ADdrico/Imagens/mapa-regioes-e-estados-brasileiros-2048x1781.jpg">
 </div>
 
+<div align="center">
+  <img src="https://github.com/Gus-1003/Meteorologia_Estudos_Dados/blob/main/Balan%C3%A7o_H%C3%ADdrico/Imagens/Bioma%20regional%20Brasil.jpg">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Gus-1003/Meteorologia_Estudos_Dados/blob/main/Balan%C3%A7o_H%C3%ADdrico/Imagens/409d2ba190f86c7f86f3edbe8e217d56.jpg">
+</div>
+
 ## Fonte dos Dados:
 * INMET:
     - https://tempo.inmet.gov.br/TabelaEstacoes
